@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os habitos.
 
-- [Acesse o projeto finalizado, online]
+- [Acesse o projeto finalizado, online] (https://edsonguayanaz.github.io/Site_ControleDeHabitos/)
 
 ## 🔖 Layout
 
